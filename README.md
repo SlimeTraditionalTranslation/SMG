@@ -1,20 +1,24 @@
-# Info
-SimpleMaterialGenerators (SMG for short) is a Slimefun4 addon that helps aliviate some of the grind by providing simple generators that create simple materials.<br>
+# 資訊
+簡單材料製造機 (簡稱SMG) 是一個黏液科技的附加, 它通過提供製作簡單製造機來做為研磨的簡單材料.<br>
 
-## What it adds
-Currently it adds generators for:<br>
-Cobblestone, Stone, Smooth stone, Gravel, Sand, Glass, Netherrack and Soul sand<br>
+此為**非官方**版本, 請勿在該作者的問題追蹤內回報!
+[原作者連結](https://github.com/waleks647/SMG)
 
-## Using the generators
-The generators by themselves will do nothing - at least not until they have a chest (directly) above them.<br>
-(There's a multiblock example in the SMG category).<br>
-Then they will start producing items.<br>
-The `Rate` of their production is measured in Slimefun `Ticks`.<br>
+## 它添加了甚麼
+目前它添加了以下的製造機:<br>
+鵝卵石, 石頭, 平滑石頭, 礫石, 沙子, 玻璃, 地獄石和靈魂沙<br>
 
-## Downloads
-You can find the prebuilt plugin in:<br>
-https://thebusybiscuit.github.io/builds/waleks647/SMG/master<br>
+## 使用製造機
+製造機本身甚麼都不做 - 至少在它們上面有一個儲物箱之前甚麼都不會做.<br>
+(SMG類別中有一個多重方塊示例).<br>
+然後它們將會開始生產物品.<br>
+它們生產的 `速度` 是以黏液科技的 `Ticks` 來衡量.<br>
 
-## Plans
-There are plans to add more generators in the future (once I figure out how to do it)<br>
-Namely generators for Dirt, Water, Lava, Obsidian and dusts.<br>
+## 下載
+你可以在下方找到此插件的建構:<br>
+繁體中文版: https://xmikux.github.io/builds/xMikux/SMG/master<br>
+原版: https://thebusybiscuit.github.io/builds/waleks647/SMG/master<br>
+
+## 計畫
+將來有計畫增加更多種類的製造機 (一旦我弄清楚如何去做)<br>
+也就是 泥土, 水, 熔岩, 黑曜石與粉的製造機.<br>

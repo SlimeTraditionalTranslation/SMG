@@ -1,0 +1,7 @@
+version: "1"
+rules:
+  - base: master
+    upstream: waleks647:master
+    mergeMethod: merge
+    conflictReviewers:
+      - xMikux

@@ -5,7 +5,7 @@ name: SimpleMaterialGenerators
 author: waleks
 
 ## CHANGE this to a meaninful but short description of your plugin.
-description: 'Simple material generators for Slimefun' 
+description: 黏液科技附加 簡單材料製造機 繁體翻譯版.
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
 main: me.waleks.simplematerialgenerators.SimpleMaterialGenerators

@@ -12,18 +12,18 @@ public final class SMGItems {
 
     public static final Category SMG_ITEM_CATEGORY = new Category(
         new NamespacedKey(SimpleMaterialGenerators.getInstance(), "simplematerialgenerators"),
-        new CustomItem(Material.SMOOTH_STONE, "&9Simple Material Generators")
+        new CustomItem(Material.SMOOTH_STONE, "&9簡單材料製造機")
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_MULTIBLOCK = new SlimefunItemStack(
         "SMG_GENERATOR_MULTIBLOCK",
         Material.BEDROCK,
-        "&9Generator multiblock",
+        "&9多重方塊製造機",
         "",
-        "&dBuild any of this addon's",
-        "&dgenerators like this.",
-        "&aThey will only output to a chest",
-        "&adirectly above it."
+        "&d建造任何在此附加的",
+        "&d製造機像是這樣.",
+        "&a它們只會直接輸出在",
+        "&a正上方的儲物箱內."
     );
 	
 	/*	Template for adding more generator items
@@ -40,108 +40,108 @@ public final class SMGItems {
     public static final SlimefunItemStack SMG_GENERATOR_COBBLESTONE = new SlimefunItemStack(
         "SMG_GENERATOR_COBBLESTONE",
         Material.COBBLESTONE,
-        "&7Cobblestone generator",
-        "&6Rate: &e4 ticks",
+        "&7鵝卵石製造機",
+        "&6速度: &e4 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_STONE_BROKEN = new SlimefunItemStack(
         "SMG_GENERATOR_STONE_BROKEN",
         Material.STONE,
-        "&7Stone generator &8(Broken)",
-        "&8Needs to be repaired",
+        "&7石頭製造機 &8(損壞)",
+        "&8需要修復",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_STONE = new SlimefunItemStack(
         "SMG_GENERATOR_STONE",
         Material.STONE,
-        "&7Stone generator",
-        "&6Rate: &e8 ticks",
+        "&7石頭製造機",
+        "&6速度: &e8 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_SMOOTH_STONE_BROKEN = new SlimefunItemStack(
         "SMG_GENERATOR_SMOOTH_STONE_BROKEN",
         Material.SMOOTH_STONE,
-        "&7Smooth stone generator &8(Broken)",
-        "&8Needs to be repaired",
+        "&7平滑石頭製造機 &8(損壞)",
+        "&8需要修復",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_SMOOTH_STONE = new SlimefunItemStack(
         "SMG_GENERATOR_SMOOTH_STONE",
         Material.SMOOTH_STONE,
-        "&7Smooth stone generator",
-        "&6Rate: &e12 ticks",
+        "&7平滑石頭製造機",
+        "&6速度: &e12 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_GRAVEL_BROKEN = new SlimefunItemStack(
         "SMG_GENERATOR_GRAVEL_BROKEN",
         Material.GRAVEL,
-        "&7Gravel generator &8(Broken)",
-        "&8Needs to be repaired",
+        "&7礫石製造機 &8(損壞)",
+        "&8需要修復",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_GRAVEL = new SlimefunItemStack(
         "SMG_GENERATOR_GRAVEL",
         Material.ANDESITE,
-        "&7Gravel generator",
-        "&6Rate: &e6 ticks",
+        "&7礫石製造機",
+        "&6速度: &e6 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_SAND_BROKEN = new SlimefunItemStack(
         "SMG_GENERATOR_SAND_BROKEN",
         Material.SAND,
-        "&eSand generator &8(Broken)",
-        "&8Needs to be repaired",
+        "&e沙子製造機 &8(損壞)",
+        "&8需要修復",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_SAND = new SlimefunItemStack(
         "SMG_GENERATOR_SAND",
         Material.SANDSTONE,
-        "&eSand generator",
-        "&6Rate: &e8 ticks",
+        "&e沙子製造機",
+        "&6速度: &e8 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_GLASS = new SlimefunItemStack(
         "SMG_GENERATOR_GLASS",
         Material.GLASS,
-        "&fGlass generator",
-        "&6Rate: &e12 ticks",
+        "&f玻璃製造機",
+        "&6速度: &e12 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_NETHERRACK = new SlimefunItemStack(
         "SMG_GENERATOR_NETHERRACK",
         Material.NETHERRACK,
-        "&cNetherrack generator",
-        "&6Rate: &e6 ticks",
+        "&c地獄石製造機",
+        "&6速度: &e6 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 
     public static final SlimefunItemStack SMG_GENERATOR_SOUL_SAND = new SlimefunItemStack(
         "SMG_GENERATOR_SOUL_SAND",
         Material.SOUL_SAND,
-        "&8Soul sand generator",
-        "&6Rate: &e8 ticks",
+        "&8靈魂沙製造機",
+        "&6速度: &e8 ticks",
         "",
-        "&9&oSimpleMaterialGenerators"
+        "&9&o簡單材料製造機"
     );
 }
