@@ -1,8 +1,9 @@
 # 資訊
 簡單材料製造機 (簡稱SMG) 是一個黏液科技的附加, 它通過提供製作簡單製造機來做為研磨的簡單材料.<br>
 
-此為**非官方**版本, 請勿在該作者的問題追蹤內回報!
-[原作者連結](https://github.com/waleks647/SMG)
+> 此為**非官方**版本, 請勿在該作者問題追蹤內回報! <br>
+> 由於原作未更新至RC-27 已有其他附加作者Fork更新至最新! <br>
+> [原作連結](https://github.com/waleks647/SMG) | [Fork更新版](https://github.com/Sefiraat/SMG) | [非官方Discord](https://discord.gg/GF4CwjFXT9)
 
 ## 它添加了甚麼
 目前它添加了以下的製造機:<br>
@@ -15,9 +16,10 @@
 它們生產的 `速度` 是以黏液科技的 `Ticks` 來衡量.<br>
 
 ## 下載
-你可以在下方找到此插件的建構:<br>
-繁體中文版: https://xmikux.github.io/builds/xMikux/SMG/master<br>
-原版: https://thebusybiscuit.github.io/builds/waleks647/SMG/master<br>
+| 非官方繁體中文版 | 官方英文版(原作未更新至最新) | Fork更新版 |
+| -------- | -------- | -------- |
+| 點下方圖片下載 | 點下方圖片下載 | 點下方圖片下載 |
+| [![Build Status](https://xMikux.github.io/builds/SlimeTraditionalTranslation/SMG/master/badge.svg)](https://xMikux.github.io/builds/SlimeTraditionalTranslation/SMG/master) | [![Build Status](https://thebusybiscuit.github.io/builds/waleks647/SMG/master/badge.svg)](https://thebusybiscuit.github.io/builds/waleks647/SMG/master) | [![Build Status](https://thebusybiscuit.github.io/builds/Sefiraat/SMG/master/badge.svg)](https://thebusybiscuit.github.io/builds/Sefiraat/SMG/master) |
 
 ## 計畫
 將來有計畫增加更多種類的製造機 (一旦我弄清楚如何去做)<br>

@@ -4,4 +4,13 @@ rules:
     upstream: waleks647:master
     mergeMethod: merge
     conflictReviewers:
+      - weiii-joe
+      - xhuanfux
+      - xMikux
+  - base: master
+    upstream: Sefiraat:master
+    mergeMethod: merge
+    conflictReviewers:
+      - weiii-joe
+      - xhuanfux
       - xMikux
