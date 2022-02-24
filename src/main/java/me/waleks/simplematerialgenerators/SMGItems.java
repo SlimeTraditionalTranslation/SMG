@@ -144,4 +144,40 @@ public final class SMGItems {
         "",
         "&9&o簡單材料製造機"
     );
+
+    public static final SlimefunItemStack SMG_GENERATOR_REDSTONE_BROKEN = new SlimefunItemStack(
+            "SMG_GENERATOR_REDSTONE_BROKEN",
+            Material.REDSTONE_BLOCK,
+            "&c紅石製造機 &8(損壞)",
+            "&8需要修復",
+            "",
+            "&9&o簡單材料製造機"
+    );
+
+    public static final SlimefunItemStack SMG_GENERATOR_REDSTONE = new SlimefunItemStack(
+            "SMG_GENERATOR_REDSTONE",
+            Material.REDSTONE_BLOCK,
+            "&c紅石製造機",
+            "&6速度: &e24 ticks",
+            "",
+            "&9&o簡單材料製造機"
+    );
+
+    public static final SlimefunItemStack SMG_GENERATOR_OBSIDIAN_BROKEN = new SlimefunItemStack(
+            "SMG_GENERATOR_OBSIDIAN_BROKEN",
+            Material.OBSIDIAN,
+            "&5黑曜石製造機 &8(損壞)",
+            "&8需要修復",
+            "",
+            "&9&o簡單材料製造機"
+    );
+
+    public static final SlimefunItemStack SMG_GENERATOR_OBSIDIAN = new SlimefunItemStack(
+            "SMG_GENERATOR_OBSIDIAN",
+            Material.OBSIDIAN,
+            "&5黑曜石製造機",
+            "&6速度: &e128 ticks",
+            "",
+            "&9&o簡單材料製造機"
+    );
 }
