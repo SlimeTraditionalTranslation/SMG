@@ -145,6 +145,15 @@ public final class SMGItems {
         "&9&o簡單材料製造機"
     );
 
+    public static final SlimefunItemStack SMG_GENERATOR_REDSTONE_BADLY_FORMED = new SlimefunItemStack(
+            "SMG_GENERATOR_REDSTONE_BADLY_FORMED",
+            Material.REDSTONE_BLOCK,
+            "&c紅石製造機 &8(錯誤形式)",
+            "&8需要修復",
+            "",
+            "&9&o簡單材料製造機"
+    );
+
     public static final SlimefunItemStack SMG_GENERATOR_REDSTONE_BROKEN = new SlimefunItemStack(
             "SMG_GENERATOR_REDSTONE_BROKEN",
             Material.REDSTONE_BLOCK,
@@ -159,6 +168,15 @@ public final class SMGItems {
             Material.REDSTONE_BLOCK,
             "&c紅石製造機",
             "&6速度: &e24 ticks",
+            "",
+            "&9&o簡單材料製造機"
+    );
+
+    public static final SlimefunItemStack SMG_GENERATOR_OBSIDIAN_BADLY_FORMED = new SlimefunItemStack(
+            "SMG_GENERATOR_OBSIDIAN_BADLY_FORMED",
+            Material.OBSIDIAN,
+            "&5黑曜石製造機 &8(錯誤形式)",
+            "&8需要修復",
             "",
             "&9&o簡單材料製造機"
     );
